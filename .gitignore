@@ -1,0 +1,82 @@
+# Ignore Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Ignore MonoDevelop generated files
+/*.userprefs
+
+# Ignore Visual Studio Code generated files
+.vscode/
+
+# Ignore OS generated files
+.DS_Store
+.Thumbs.db
+
+# Ignore project-specific files
+/*.sln
+/*.csproj
+/*.suo
+/*.user
+/*.user
+/*.sln
+/*.pidb
+
+# Ignore build output
+/Builds/
+/Build/
+/Builds/*
+/Build/*
+/*.apk
+
+# Ignore Android build output
+/[Aa]ndroid/[Bb]uild/
+/[Aa]ndroid/[Oo]bj/
+/[Aa]ndroid/[Aa]ssets/
+
+# Ignore iOS build output
+/[Ii]OS/[Bb]uild/
+/[Ii]OS/[Oo]bj/
+
+# Ignore custom assets
+/Assets/[Ss]treamingAssets/
+
+# Ignore Visual Studio files
+.vscode/
+*.suo
+*.sln
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider files
+.idea/
+
+# Ignore .NET and Mono files
+/packages/
+*.csproj.user
+*.pidb
+
+# Ignore user-specific files
+/*.suo
+/*.user
+/*.userosscache
+/*.sln.docstates
+
+# Ignore generated images
+/_Generated/
+/[Ss]creenshot-*.png
+
+# Ignore any logs or crash reports
+/[Ll]ogs/
+/[Ll]og/
+/[Tt]emp/[Ll]ogs/
+/[Tt]emp/[Ll]og/
+
+# Ignore backup files and folders
+/[Bb]ackup*/
+/[Bb]ackup*/
